@@ -1,0 +1,24 @@
+{
+  "name": "japerman/start-pdox",
+  "type": "library",
+  "description": "Query Builder and PDO Class for #PHP",
+  "homepage": "https://github.com/Japerman/Start-pdox",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jose Perez",
+      "email": "japerman@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "ext-pdo": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Start\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
