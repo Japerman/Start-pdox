@@ -38,7 +38,6 @@ $config = [
 $db = new \Start\Pdox($config);
 ```
 
-Congratulations! Now, you can use PDOx.
 
 
 
