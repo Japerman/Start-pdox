@@ -40,7 +40,7 @@ $db = new \Start\Pdox($config);
 
 Congratulations! Now, you can use PDOx.
 
-If you have a problem, you can [contact me][support-url].
+
 
 # Detailed Usage and Methods
 
